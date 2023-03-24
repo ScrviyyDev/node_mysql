@@ -2,21 +2,21 @@
 
 - Os bancos de dados relacionais são constituídos por algumas entidades.
 
-- Banco de dados: Um banco para guardar os dados do projeto.
+- **Banco de dados**: Um banco para guardar os dados do projeto.
 
-- Tabelas: Onde categorizamos os dados e os inserimos.
+- **Tabelas**: Onde categorizamos os dados e os inserimos.
 
-- Colunas: Onde separamos os dados em uma tabela.
+- **Colunas**: Onde separamos os dados em uma tabela.
 
-- Dados: O que é inserido, modificado, atualizado e removido em uma tabela.
+- **Dados**: O que é inserido, modificado, atualizado e removido em uma tabela.
 
-- Relacionamento: Ligações entre as tabelas.
+- **Relacionamento**: Ligações entre as tabelas.
 
 --- 
 
 ## O que é MySQL?
 
-- O MySQL é um SGBD (Sistema Gerenciador de Banco de Dados), que auxilia o trabalho no banco de dados.
+- O MySQL é um **SGBD (Sistema Gerenciador de Banco de Dados)**, que auxilia o trabalho no banco de dados.
 
 - Atualmente, é o mais utilizado para sistemas e aplicações.
 
